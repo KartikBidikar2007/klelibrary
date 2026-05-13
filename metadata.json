@@ -1,0 +1,6 @@
+{
+  "name": "Kle Library",
+  "description": "An F1-inspired Library Management System. Features role-based access (User, Employee, Admin), real-time book tracking, and high-performance inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
